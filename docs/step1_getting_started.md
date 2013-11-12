@@ -96,7 +96,7 @@ Clouda是基于node.js的开发框架，所以我们首先需要安装node.js
 
 ### 安装MongoDB
 
-在本地sumeru已mongoDB作为数据库，按照下面的步骤安装并启动MongoDB
+在本地sumeru以mongoDB作为数据库，按照下面的步骤安装并启动MongoDB
 
 * 下载mongoDB，地址：<http://www.mongodb.org/downloads>
 
